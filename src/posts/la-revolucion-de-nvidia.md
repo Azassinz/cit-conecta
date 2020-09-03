@@ -67,7 +67,7 @@ Saltamos ahora al mundo de las machinimas, que es la creación de cinemáticas u
 
 Con esto dan el salto al anuncio que todos estábamos esperando, su nueva arquitectura Ampere, donde se enfocan en mostrar la mejora que reciben sus módulos de procesamiento de inteligencia artificial llamados Tensor Core, optimizados para las operaciones de álgebra lineal que se utilizan en el procesamiento de redes neuronales profundas, creando posibilidades que como humanos no somos capaces de recrear sin que represente un esfuerzo mayor; como la creación de personajes fotorrealistas, la ya mencionada animación facial mediante audio, locomoción completa de personajes que reaccionan a obstáculos, generación de modelos 3D usando vídeo 2D, simulación de físicas apegadas a la realidad, reducción del ruido generado por el ray tracing y, por supuesto, su reciente implementación del DLSS 2.0, el cual incluso logra superar los detalles del 4K nativo al aplicarse en juegos como Death Stranding e incrementando los cuadros por segundo. Aquí la importancia de implementación de núcleos dedicados al ray tracing y la inteligencia artificial, que reduce considerablemente el tiempo de procesamiento de la arquitectura tradicional a la vez que duplica el rendimiento, así es ampere, la segunda generación de RTX.
 
-<lazy-load tag="img" :data="{ src: 'https://gamesenpai.gr/wp-content/uploads/2020/09/Screenshot_8-1024x515.png', alt:'La magia del deep learning' }" />
+<lazy-load tag="img" :data="{ src: 'https://pbs.twimg.com/media/Eg3WLChVgAAO3cY?format=jpg&name=small', alt:'La magia del deep learning' }" />
 
 <lazy-load tag="img" :data="{ src: 'https://www.breakflip.com/uploads/5f4e771bd62e2-nvidia-dlss-4k-fortnite.jpeg', alt:'comparación NVIDIA DLSS' }" />
 
