@@ -1,8 +1,8 @@
 ---
 view: posts
-title: All posts of CIT Conecta
-description: All posts
-excerpt: Here you can find all the posts.
+title: Todos los artículos
+description: Todas las publicaciones.
+excerpt: Aquí puedes encontrar todas las publicaciones.
 meta:
   - property: og:image
     content: /image-social-share.png

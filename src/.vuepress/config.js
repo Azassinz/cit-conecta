@@ -15,10 +15,10 @@ module.exports = {
   serviceWorker: true,
   locales: {
     '/': {
-      lang: 'en'
-    },
-    '/es/': {
       lang: 'es'
+    },
+    '/en/': {
+      lang: 'en'
     }
   },
   configureWebpack () {

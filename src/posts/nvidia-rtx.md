@@ -1,12 +1,12 @@
 ---
 view: post
 layout: post                    # Only in unique we use the "layout: post"
-lang: en                     # Lang is required
+lang: es                       # Lang is required
 author: David-López
 title: Ray Tracing en los videojuegos
-description: Introducción al trazado de rayos en los vidoejuegos
+description: Introducción al trazado de rayos en los videojuegos
 excerpt:
-cover: true                    # Leave false if the post does not have cover image, if there is set to true
+cover: true
 coverExt: jpg
 coverAlt: 
 demo:
@@ -20,9 +20,9 @@ created_at: 2020-08-31 18:00
 updated_at: 2020-08-31 18:00
 meta:                                 # If you have cover image
   - property: og:image
-    content: https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/1047673-nvidias-new-rtx-real-time-ray-tracing-technology-really-game-changer.jpg?itok=2OoUXg2Y         # For locale /es/, add  "/images/es/posts/"
+    content: https://www.tweaktown.com/images/news/7/4/74807_21_here-are-some-leaked-specs-on-the-nvidia-geforce-rtx-3090_full.png         # For locale /es/, add  "/images/es/posts/"
   - name: twitter:image
-    content: https://www.awn.com/sites/default/files/styles/large_featured/public/image/featured/1047673-nvidias-new-rtx-real-time-ray-tracing-technology-really-game-changer.jpg?itok=2OoUXg2Y
+    content: https://www.tweaktown.com/images/news/7/4/74807_21_here-are-some-leaked-specs-on-the-nvidia-geforce-rtx-3090_full.png
 ---
 
 ## Introducción

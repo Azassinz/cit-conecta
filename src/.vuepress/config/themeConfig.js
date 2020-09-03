@@ -4,8 +4,8 @@ const es = require('./locales/es/config')
 
 module.exports = {
   locales: {
-    '/': en,
-    '/es/': es
+    '/': es,
+    '/en/': en
   },
   serviceWorker: {
     updatePopup: { 

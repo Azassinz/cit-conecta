@@ -32,23 +32,23 @@ module.exports = {
       items: [
         {
           label: 'ACERCA',
-          path: '/es/sobre/'
+          path: '/sobre/'
         },
         {
           label: 'POSTS',
-          path: '/es/posts/'
+          path: '/posts/'
         },
         {
           label: 'CATEGORÍAS',
-          path: '/es/categorias/'
+          path: '/categorias/'
         },
         {
           label: 'AUTORES',
-          path: '/es/autores/'
+          path: '/autores/'
         },
         {
           label: 'CONTACTO',
-          path: '/es/contacto/'
+          path: '/contacto/'
         }
       ]
     },
@@ -66,9 +66,9 @@ module.exports = {
       name: 'youtube',
       link: 'https://www.youtube.com/channel/UChobrGCsXmtI48jJvKHrmLA'
     },
-    // {
-    //   name: 'instagram',
-    //   link: 'https://www.instagram.com/cit_its/'
-    // }
+    {
+      name: 'instagram',
+      link: 'https://www.instagram.com/cit_its/'
+    }
   ]
 }
