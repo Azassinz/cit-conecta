@@ -4,5 +4,5 @@ node_modules
 .firebase
 .firebaserc
 firebase.json
-docs/.vuepress/dist
+src/.vuepress/dist
 package-lock.json
