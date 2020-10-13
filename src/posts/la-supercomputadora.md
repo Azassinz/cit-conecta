@@ -73,7 +73,7 @@ Se usa un material por su tipo de comportamiento a la electricidad, resistencia 
 
 Existen muchos cálculos que se hacen de manera aproximada, por ejemplo, el modelado del cálculo financiero, con las nuevas capacidades se puede llegar a un resultado exacto.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPo9iyFIwbw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="video" src="https://www.youtube.com/embed/MPo9iyFIwbw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Machine Learning
 
@@ -83,7 +83,7 @@ Un aspecto muy limitado es el machine learning ya que debe de analizar grandes c
 
 La industria que más se vería beneficiada por este tipo de computadoras es la farmacéutica, ya que se podrían simular las moléculas y acelere el proceso de hacer medicinas, ya que hoy en día no se pueden hacer simulaciones ni siquiera de la molécula del agua.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qarc7AA4-wM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="video" src="https://www.youtube.com/embed/qarc7AA4-wM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Conclusiones
 
