@@ -10,7 +10,7 @@ meta:
     content: /image-social-share.png
 ---
 
-Escribenos un correo a contacto@cit-its.org
+Escribenos un correo a [contacto@cit-its.org](mailto:contacto@cit-its.org)
 
 <!-- 
 <div class="typeform typeform--fix">
