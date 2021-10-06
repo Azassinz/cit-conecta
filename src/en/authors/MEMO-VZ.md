@@ -12,10 +12,10 @@ social:
   - name: twitter
     url: https://twitter.com/memoovilla
   - name: site
-    url: https://cit-its.org/
+    url: https://citmx.org/
 meta:
   - property: og:image
-    content: https://cit-its.org/static/media/guillermo.c543f402.png
+    content: https://citmx.org/static/media/guillermo.c543f402.png
   - name: twitter:image
-    content: https://cit-its.org/static/media/guillermo.c543f402.png
+    content: https://citmx.org/static/media/guillermo.c543f402.png
 ---

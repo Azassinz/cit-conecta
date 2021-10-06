@@ -14,10 +14,10 @@ social:
   - name: github
     url: https://github.com/Azassinz
   - name: site
-    url: https://cit-its.org/
+    url: https://citmx.org/
 meta:
   - property: og:image
-    content: https://cit-its.org/static/media/davidlopez.09a191de.png
+    content: https://citmx.org/static/media/davidlopez.09a191de.png
   - name: twitter:image
-    content: https://cit-its.org/static/media/davidlopez.09a191de.png
+    content: https://citmx.org/static/media/davidlopez.09a191de.png
 ---

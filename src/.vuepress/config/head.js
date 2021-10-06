@@ -54,8 +54,8 @@ module.exports = [
   ['link', { rel: 'mask-icon', href: '/favicon/safari-pinned-tab.svg', color: '#ff5733' }],
   ['link', { rel: 'shortcut icon', href: '/favicon/favicon.ico' }],
 
-  ['link', { rel: 'alternate', href: `https://blog.cit-its.org`, hreflang: 'es' }],
-  ['link', { rel: 'alternate', href: `https://blog.cit-its.org/en/`, hreflang: 'en' }],
+  ['link', { rel: 'alternate', href: `https://blog.citmx.org`, hreflang: 'es' }],
+  ['link', { rel: 'alternate', href: `https://blog.citmx.org/en/`, hreflang: 'en' }],
 
   // Prebrowsing
   ['link', { rel: 'preconnect', href: 'https://connect.facebook.net/' }],
